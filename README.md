@@ -1,5 +1,5 @@
 # Convex-Optimization
 
-Quadratically Constrained Quadratic Programming
+Quadratically Constrained Quadratic Programming with CVX 
 
 Project in progress 
